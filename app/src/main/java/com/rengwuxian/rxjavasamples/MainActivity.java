@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
                 return 6;
             }
 
-
             @Override
             public Fragment getItem(int position) {
                 switch (position) {
